@@ -1,6 +1,9 @@
 # Data-Scientist-Capstone
 # Data Scientist Capstone: Turkey Earthquakes General Overview on Dataset
 
+### Blog:
+https://medium.com/@ibrahimal-khurayyif/turkeys-earthquake-awakening-unraveling-the-impact-of-seismic-events-from-1991-to-202-d4c864e4ed1c
+
 ## About Dataset Turkey Earthquake Dataset (1991-2023) Description:
 
 This dataset contains information about earthquakes that occurred in Turkey from 1991 to 2023. The data includes the date and time of each earthquake, its magnitude, depth, and the latitude and longitude of the epicenter.
